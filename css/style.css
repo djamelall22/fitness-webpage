@@ -133,7 +133,6 @@
     padding: 40px;
     background: url(../images/bg2.jpg) center center;
     background-size: cover;
-    text-align: center;
   }
 
   .hero__header .logo {
@@ -202,5 +201,9 @@
 
   .hero__social ul {
     display: none;
+  }
+
+  .hero__text {
+    width: 100%;
   }
 } ;
